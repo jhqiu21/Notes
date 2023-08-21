@@ -1,3 +1,3 @@
-# Notes of Lecture in NUS
+# Notes of Lectures in NUS
 
 
